@@ -1,0 +1,6 @@
+.metadata/
+jdbc1/bin/
+jdbc1/.settings/
+jdbc1/.classpath
+jdbc1/.project
+jdbc1/db.properties
